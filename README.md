@@ -13,6 +13,7 @@ The latest version of `torch`, `numpy`, `pytorch_pretrained_bert`, `sklearn`.
 # Data Format
 
 **Input(Train, Inaccurate, Test):** `.tsv` or `.csv` file and specifying the data indexes and the label index.
+
 **Output:** one column for the predicted label.
 
 # Run
